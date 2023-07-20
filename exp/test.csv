@@ -1,0 +1,401 @@
+Churn,Tenure,City_Tier,CC_Contacted_LY,Payment,Gender,Service_Score,Account_user_count,account_segment,CC_Agent_Score,Marital_Status,rev_per_month,Complain_ly,rev_growth_yoy,coupon_used_for_payment,Day_Since_CC_connect,cashback,Login_device
+1,5,1.0,9.0,Debit Card,Female,3.0,6,Regular Plus,2.0,Married,6,1.0,14,1,1,152.78,Mobile
+0,0,3.0,39.0,Credit Card,Male,2.0,3,Super,3.0,Married,7,0.0,14,1,0,147.06,Mobile
+1,1,1.0,16.0,Credit Card,Male,3.0,4,Regular Plus,5.0,Single,4,1.0,12,1,1,156.72,Computer
+0,1,3.0,15.0,Debit Card,Male,3.0,3,Super,2.0,Single,2,0.0,16,1,7,152.53,Mobile
+0,0,1.0,12.0,Credit Card,Male,3.0,4,Regular Plus,3.0,Single,2,0.0,19,1,0,139.3,Mobile
+0,6,3.0,8.0,Credit Card,Male,3.0,3,Super,1.0,Married,2,0.0,14,1,4,155.05,Mobile
+1,1,1.0,13.0,Credit Card,Male,3.0,4,Regular Plus,1.0,Married,11,1.0,17,3,3,177.87,Mobile
+0,3,1.0,29.0,Debit Card,Male,3.0,5,Regular Plus,3.0,Married,2,0.0,25,0,9,126.13,Computer
+0,19,1.0,38.0,Cash on Delivery,Female,3.0,5,Super Plus,4.0,Single,5,0.0,14,7,7,293.04,Mobile
+0,6,3.0,15.0,Credit Card,Male,3.0,2,Super,2.0,Divorced,3,0.0,16,1,9,187.09,Mobile
+0,1,3.0,18.0,UPI,Female,3.0,4,Super,3.0,Married,4,1.0,25,1,5,181.07,Mobile
+0,5,1.0,14.0,Credit Card,Female,3.0,1,Super,3.0,Divorced,6,0.0,12,1,3,151.75,Mobile
+0,5,3.0,9.0,Debit Card,Male,4.0,4,Super,2.0,Single,6,1.0,14,2,6,190.82,Mobile
+0,7,1.0,16.0,Debit Card,Female,3.0,3,Super,4.0,Married,4,0.0,13,1,9,160.33,Mobile
+0,31,1.0,16.0,Debit Card,Male,4.0,5,Regular Plus,1.0,Married,7,0.0,20,1,1,148.77,Mobile
+0,4,2.0,18.0,UPI,Male,3.0,4,Super,1.0,Married,2,1.0,20,5,8,195.47,Mobile
+1,1,1.0,21.0,Credit Card,Male,4.0,4,HNI,3.0,Married,10,0.0,14,2,1,227.48,Computer
+0,15,1.0,26.0,Debit Card,Male,2.0,3,Super,5.0,Married,10,1.0,19,1,2,157.1,Mobile
+0,4,3.0,16.0,Cash on Delivery,Male,2.0,3,Super,3.0,Married,3,0.0,20,0,2,188.46,Mobile
+0,2,1.0,13.0,Credit Card,Female,3.0,4,Regular Plus,1.0,Married,7,0.0,14,1,3,125.32,Mobile
+0,7,1.0,12.0,Debit Card,Female,2.0,4,Regular Plus,4.0,Married,9,0.0,19,1,2,132.94,Mobile
+0,6,1.0,25.0,Credit Card,Female,3.0,3,Regular Plus,4.0,Married,4,0.0,13,1,6,133.56,Mobile
+0,9,1.0,25.0,Debit Card,Male,3.0,2,Super,5.0,Married,3,0.0,12,1,11,177.08,Mobile
+0,13,3.0,33.0,Debit Card,Male,3.0,4,Super,1.0,Married,6,0.0,21,2,3,170.27,Computer
+0,8,1.0,7.0,Debit Card,Female,4.0,2,Regular Plus,1.0,Single,4,0.0,17,2,4,157.8,Mobile
+1,1,3.0,27.0,Debit Card,Female,4.0,6,Super,3.0,Married,5,1.0,12,1,3,170.59,Mobile
+0,9,1.0,7.0,Cash on Delivery,Female,3.0,5,HNI,5.0,Married,3,1.0,21,7,7,202.52,Mobile
+0,18,3.0,26.0,Debit Card,Female,2.0,3,Super,3.0,Single,9,0.0,15,0,1,148.5,Mobile
+0,8,3.0,19.0,Debit Card,Male,3.0,4,Super,3.0,Married,3,1.0,15,2,8,165.01,Computer
+0,1,1.0,15.0,Credit Card,Female,3.0,3,Regular Plus,3.0,Married,6,0.0,18,0,2,123.77,Mobile
+0,29,1.0,10.0,Cash on Delivery,Female,3.0,3,Regular,5.0,Married,5,0.0,13,0,2,299.43,Mobile
+0,6,1.0,31.0,Debit Card,Male,2.0,4,Super,4.0,Single,2,0.0,13,0,2,143.2,Mobile
+0,14,1.0,18.0,Debit Card,Male,2.0,3,Regular Plus,2.0,Divorced,4,1.0,11,1,0,147.66,Mobile
+0,0,1.0,16.0,Cash on Delivery,Male,2.0,1,Regular Plus,3.0,Married,3,0.0,16,2,2,120.73,Mobile
+0,14,1.0,8.0,Debit Card,Male,3.0,4,Regular Plus,4.0,Married,5,0.0,23,2,4,148.87,Mobile
+0,7,1.0,12.0,Debit Card,Female,4.0,5,Regular Plus,1.0,Married,3,0.0,14,1,3,154.11,Mobile
+0,13,1.0,8.0,Debit Card,Male,4.0,4,Super,1.0,Married,3,1.0,16,1,9,189.72,Computer
+0,20,1.0,11.0,Debit Card,Male,2.0,3,Regular,3.0,Divorced,5,0.0,11,0,1,283.0,Mobile
+0,7,3.0,15.0,Debit Card,Male,3.0,3,HNI,1.0,Married,5,1.0,13,0,0,198.13,Mobile
+0,2,1.0,37.0,Debit Card,Female,3.0,3,Regular Plus,2.0,Married,9,0.0,23,0,7,130.14,Mobile
+0,24,1.0,14.0,Credit Card,Female,3.0,3,Super Plus,4.0,Single,6,0.0,18,1,0,244.34,Mobile
+1,0,1.0,7.0,Credit Card,Male,2.0,3,Regular Plus,1.0,Married,10,1.0,14,2,2,147.87,Mobile
+0,23,1.0,14.0,Debit Card,Male,3.0,4,HNI,4.0,Married,5,0.0,15,1,8,229.66,Mobile
+0,13,1.0,8.0,Debit Card,Male,0.0,4,Regular Plus,3.0,Single,3,0.0,14,0,2,128.09,Mobile
+0,14,1.0,18.0,Debit Card,Female,4.0,4,Super Plus,3.0,Single,10,0.0,18,5,14,258.37,Mobile
+0,3,2.0,15.0,UPI,Male,2.0,3,Super,1.0,Married,1,1.0,19,4,7,163.47,Mobile
+0,30,1.0,6.0,Credit Card,Female,3.0,3,Regular,5.0,Divorced,4,1.0,21,1,5,297.01,Mobile
+0,31,3.0,35.0,E wallet,Female,4.0,5,HNI,5.0,Divorced,6,0.0,20,14,12,227.66,Computer
+0,3,1.0,14.0,Debit Card,Female,3.0,1,HNI,5.0,Married,1,1.0,12,0,7,214.16000000000005,Mobile
+0,27,1.0,9.0,Credit Card,Male,3.0,2,Super Plus,4.0,Single,6,0.0,13,7,9,290.98,Mobile
+0,19,2.0,16.0,Debit Card,Female,3.0,6,HNI,3.0,Married,6,0.0,24,2,4,227.56,Mobile
+0,9,1.0,16.0,Debit Card,Male,2.0,3,HNI,5.0,Married,8,1.0,13,1,7,183.21,Mobile
+0,16,1.0,26.0,Debit Card,Female,3.0,2,Super,5.0,Single,7,1.0,14,2,3,193.45,Mobile
+0,10,1.0,29.0,Debit Card,Male,2.0,3,Super,3.0,Married,8,0.0,18,0,2,159.68,Mobile
+0,17,3.0,37.0,Credit Card,Male,4.0,5,HNI,2.0,Married,9,0.0,15,2,1,260.0,Mobile
+0,15,1.0,16.0,Credit Card,Male,4.0,4,Regular,3.0,Married,4,0.0,18,1,12,319.19,Computer
+0,5,3.0,13.0,E wallet,Male,3.0,3,Super,1.0,Married,5,0.0,12,0,3,192.04,Mobile
+0,3,3.0,18.0,Cash on Delivery,Female,2.0,3,Super,3.0,Single,1,0.0,11,3,4,165.77,Mobile
+0,0,1.0,14.0,Debit Card,Male,2.0,5,Regular Plus,3.0,Divorced,2,0.0,19,1,2,146.21,Computer
+0,31,3.0,14.0,E wallet,Male,3.0,2,Super,2.0,Married,2,1.0,19,1,10,177.2,Mobile
+1,0,1.0,20.0,Debit Card,Male,3.0,3,Regular Plus,4.0,Single,4,1.0,24,1,0,130.72,Mobile
+0,0,1.0,29.0,Debit Card,Male,2.0,3,Regular Plus,3.0,Married,2,0.0,14,0,2,130.74,Mobile
+0,8,1.0,36.0,UPI,Male,3.0,5,Super,1.0,Married,6,1.0,16,4,12,185.47,Computer
+0,13,1.0,27.0,Debit Card,Male,3.0,3,Regular Plus,3.0,Married,11,0.0,16,1,0,141.44,Computer
+0,5,1.0,12.0,Credit Card,Female,3.0,3,Regular Plus,4.0,Divorced,5,0.0,13,0,7,126.7,Mobile
+0,8,3.0,22.0,Debit Card,Female,4.0,4,Super,5.0,Divorced,8,0.0,18,2,3,194.0,Mobile
+0,1,1.0,17.0,Credit Card,Male,4.0,3,Regular Plus,3.0,Single,3,0.0,19,2,3,160.05,Mobile
+0,7,3.0,18.0,Debit Card,Female,3.0,3,Super,3.0,Divorced,4,0.0,21,1,3,160.14,Mobile
+0,10,1.0,24.0,Debit Card,Male,4.0,4,Super,1.0,Married,5,1.0,20,3,12,191.86,Mobile
+1,14,3.0,35.0,E wallet,Male,3.0,5,HNI,5.0,Married,6,1.0,14,3,1,233.54,Mobile
+1,0,1.0,17.0,Debit Card,Male,3.0,5,Super,3.0,Single,6,1.0,24,1,6,160.74,Computer
+1,1,1.0,36.0,Credit Card,Male,4.0,5,Regular Plus,4.0,Single,2,0.0,12,1,5,159.79,Computer
+0,3,1.0,10.0,Credit Card,Male,3.0,3,Regular Plus,4.0,Divorced,1,1.0,21,1,7,138.79,Mobile
+0,12,1.0,21.0,Debit Card,Male,3.0,5,Super,5.0,Married,110,0.0,18,2,3,190.88,Computer
+0,0,1.0,14.0,Debit Card,Male,2.0,3,Regular Plus,1.0,Single,2,1.0,20,2,2,129.75,Mobile
+0,14,3.0,7.0,Credit Card,Male,3.0,6,Super,1.0,Married,4,1.0,23,2,3,199.57,Mobile
+0,21,3.0,12.0,E wallet,Female,3.0,4,Super,2.0,Divorced,3,1.0,25,6,8,171.37,Mobile
+0,99,3.0,30.0,E wallet,Female,2.0,3,Super,3.0,Married,4,0.0,13,1,0,169.32,Computer
+0,17,3.0,9.0,Credit Card,Male,4.0,4,Super,1.0,Married,3,1.0,18,4,9,203.47,Mobile
+0,1,1.0,16.0,UPI,Male,4.0,2,Regular Plus,1.0,Married,5,0.0,20,3,8,157.44,Computer
+0,11,1.0,16.0,Cash on Delivery,Male,3.0,2,Regular Plus,3.0,Single,4,0.0,17,1,4,164.0,Computer
+1,1,1.0,12.0,Cash on Delivery,Male,3.0,4,Regular Plus,3.0,Single,3,1.0,14,1,3,159.41,Mobile
+0,4,1.0,12.0,Debit Card,Male,2.0,4,Regular Plus,3.0,Married,2,1.0,14,1,2,127.03,Computer
+0,16,1.0,15.0,Debit Card,Male,3.0,4,Super Plus,3.0,Married,3,1.0,16,1,11,310.61,Computer
+0,2,1.0,33.0,Credit Card,Male,3.0,4,Regular Plus,2.0,Divorced,3,0.0,14,1,3,154.13,Mobile
+0,23,1.0,23.0,Credit Card,Female,4.0,4,Regular Plus,5.0,Married,6,1.0,17,2,3,150.87,Mobile
+0,13,3.0,14.0,Debit Card,Male,2.0,4,HNI,5.0,Divorced,7,1.0,21,0,12,208.75,Computer
+1,1,3.0,38.0,E wallet,Female,3.0,5,Super,5.0,Single,7,0.0,17,2,2,198.96,Computer
+0,29,1.0,14.0,Debit Card,Male,2.0,4,Super,3.0,Divorced,4,1.0,17,1,3,169.35,Mobile
+0,10,3.0,27.0,Credit Card,Female,2.0,3,Regular Plus,2.0,Divorced,6,0.0,15,1,0,129.73,Computer
+0,8,1.0,15.0,Credit Card,Female,4.0,4,Super,3.0,Single,5,0.0,12,1,4,186.42,Mobile
+0,3,1.0,9.0,Debit Card,Male,3.0,4,Super,1.0,Married,3,0.0,20,2,4,213.53,Computer
+0,24,3.0,8.0,E wallet,Male,2.0,3,HNI,4.0,Married,3,0.0,11,3,2,205.96,Computer
+0,1,3.0,7.0,Credit Card,Male,3.0,5,Super,5.0,Single,3,0.0,13,1,8,167.94,Computer
+1,1,3.0,7.0,Cash on Delivery,Female,4.0,6,Regular Plus,5.0,Single,2,0.0,22,2,1,148.25,Computer
+0,7,3.0,9.0,Cash on Delivery,Male,3.0,4,HNI,3.0,Married,4,1.0,16,7,6,172.83,Mobile
+0,9,1.0,12.0,Debit Card,Female,3.0,3,Super,4.0,Married,12,0.0,13,0,2,158.31,Computer
+0,9,3.0,18.0,E wallet,Female,2.0,1,Super,5.0,Married,6,0.0,16,5,13,150.39,Computer
+0,15,3.0,13.0,Debit Card,Male,2.0,3,Super,3.0,Divorced,4,0.0,25,4,6,156.07,Mobile
+0,1,1.0,10.0,Credit Card,Male,3.0,2,Regular Plus,1.0,Married,3,0.0,23,2,8,169.2,Mobile
+0,1,3.0,17.0,Debit Card,Male,2.0,3,Super,5.0,Single,5,0.0,14,1,3,154.98,Computer
+1,1,3.0,16.0,E wallet,Female,3.0,4,Regular Plus,3.0,Single,6,1.0,14,1,1,158.51,Mobile
+1,19,3.0,20.0,E wallet,Male,3.0,2,Super Plus,3.0,Single,8,1.0,18,2,9,261.95,Mobile
+0,13,1.0,11.0,Debit Card,Male,2.0,3,Regular Plus,1.0,Married,10,0.0,20,1,0,126.06,Mobile
+0,1,1.0,24.0,Credit Card,Male,2.0,3,Regular Plus,3.0,Single,2,0.0,15,0,4,123.44,Computer
+0,4,1.0,28.0,Debit Card,Female,4.0,4,Regular Plus,3.0,Single,4,0.0,15,2,5,154.32,Mobile
+0,2,1.0,18.0,UPI,Female,2.0,5,Super,5.0,Married,8,0.0,15,1,7,199.15,Mobile
+0,8,1.0,8.0,Credit Card,Female,2.0,3,Super,4.0,Single,6,0.0,11,1,2,144.25,Computer
+1,1,1.0,31.0,Cash on Delivery,Male,4.0,5,HNI,5.0,Single,3,0.0,13,1,10,212.22,Computer
+0,7,3.0,16.0,Debit Card,Female,2.0,3,Regular Plus,3.0,Divorced,2,1.0,19,0,0,122.2,Mobile
+1,0,1.0,13.0,Debit Card,Female,2.0,4,Regular Plus,5.0,Married,4,1.0,13,0,0,128.19,Mobile
+0,17,1.0,18.0,Credit Card,Female,2.0,3,Regular,1.0,Married,3,1.0,15,1,10,297.49,Mobile
+0,19,3.0,16.0,Debit Card,Female,4.0,5,Super,3.0,Married,3,0.0,14,5,13,180.93,Computer
+0,0,3.0,8.0,Credit Card,Female,2.0,1,Super,3.0,Single,1,0.0,14,0,7,165.0,Mobile
+0,29,1.0,12.0,Credit Card,Male,3.0,4,Regular,5.0,Single,3,1.0,15,5,14,322.45,Mobile
+0,23,1.0,7.0,Cash on Delivery,Female,3.0,4,Regular Plus,5.0,Married,4,0.0,17,1,3,160.8,Mobile
+0,23,1.0,6.0,Debit Card,Female,3.0,3,Regular,4.0,Married,4,1.0,19,0,7,281.72,Computer
+0,5,3.0,14.0,UPI,Male,3.0,4,Super,5.0,Single,11,0.0,16,1,4,183.32,Computer
+0,6,3.0,32.0,Debit Card,Male,4.0,6,HNI,3.0,Married,8,0.0,15,2,3,227.1,Mobile
+0,6,1.0,9.0,Cash on Delivery,Male,3.0,5,Super,5.0,Single,6,0.0,14,1,5,146.76,Mobile
+0,10,1.0,20.0,Debit Card,Male,4.0,4,Regular Plus,4.0,Single,6,0.0,14,1,4,146.13,Mobile
+0,8,1.0,12.0,Credit Card,Male,3.0,4,Regular Plus,5.0,Single,5,0.0,21,1,2,129.5,Mobile
+0,21,3.0,14.0,Debit Card,Female,3.0,4,Super,2.0,Single,7,1.0,20,2,8,169.63,Mobile
+0,9,1.0,15.0,Debit Card,Male,3.0,1,Regular Plus,4.0,Married,2,0.0,22,1,2,128.1,Computer
+1,1,3.0,14.0,E wallet,Male,3.0,5,Super,4.0,Single,13,1.0,15,3,3,229.07,Mobile
+0,8,3.0,33.0,Debit Card,Male,4.0,2,Super,1.0,Single,4,0.0,14,1,8,181.37,Mobile
+0,11,3.0,13.0,E wallet,Female,2.0,4,Super,1.0,Single,1,0.0,20,1,5,140.28,Mobile
+0,4,1.0,14.0,Cash on Delivery,Male,4.0,4,Regular Plus,3.0,Married,3,0.0,14,1,1,137.74,Computer
+1,13,3.0,14.0,Cash on Delivery,Male,2.0,3,Super,3.0,Divorced,4,1.0,14,1,3,167.96,Computer
+0,26,3.0,14.0,E wallet,Female,2.0,4,HNI,4.0,Divorced,6,0.0,13,0,12,181.25,Computer
+1,1,2.0,20.0,UPI,Female,4.0,5,Regular Plus,1.0,Married,11,0.0,12,2,3,151.8,Computer
+0,23,1.0,17.0,Debit Card,Female,2.0,3,Regular,4.0,Single,4,0.0,15,2,4,299.26,Mobile
+0,20,3.0,12.0,Debit Card,Female,2.0,1,Super Plus,4.0,Married,7,0.0,16,0,2,261.72,Mobile
+0,8,1.0,20.0,Credit Card,Male,2.0,3,Regular Plus,3.0,Married,9,1.0,13,2,2,131.6,Mobile
+0,2,1.0,24.0,Debit Card,Female,3.0,5,Regular Plus,1.0,Married,1,1.0,20,1,3,123.68,Mobile
+0,99,1.0,20.0,Credit Card,Male,4.0,5,Super,2.0,Divorced,3,1.0,16,1,3,181.56,Mobile
+0,25,1.0,7.0,Debit Card,Male,4.0,4,Regular Plus,1.0,Married,3,0.0,12,2,1,152.23,Mobile
+0,4,3.0,12.0,E wallet,Female,2.0,5,Super,3.0,Married,3,0.0,14,1,3,186.18,Mobile
+0,7,1.0,13.0,Credit Card,Female,2.0,4,Regular Plus,5.0,Single,5,0.0,12,1,3,148.81,Mobile
+0,6,1.0,10.0,Cash on Delivery,Male,2.0,3,Super,4.0,Married,6,0.0,15,0,7,130.55,Computer
+0,13,1.0,30.0,Cash on Delivery,Male,3.0,3,HNI,1.0,Married,7,0.0,22,3,1,207.22,Mobile
+0,0,1.0,11.0,Debit Card,Male,2.0,1,Regular Plus,4.0,Married,120,1.0,16,2,2,123.28,Mobile
+0,2,1.0,11.0,Cash on Delivery,Male,2.0,3,Super,3.0,Divorced,6,0.0,14,0,9,144.19,Computer
+0,17,1.0,29.0,Credit Card,Male,3.0,3,Super,4.0,Married,5,0.0,12,0,2,120.42,Computer
+0,8,1.0,12.0,Credit Card,Male,1.0,4,Regular Plus,3.0,Single,2,0.0,18,1,4,132.59,Mobile
+0,5,3.0,22.0,Credit Card,Male,2.0,5,Super,1.0,Married,5,0.0,18,0,7,151.68,Computer
+0,3,3.0,20.0,UPI,Male,3.0,3,HNI,3.0,Married,9,0.0,12,4,7,177.64,Mobile
+0,1,1.0,25.0,Debit Card,Male,3.0,4,Regular Plus,3.0,Married,2,0.0,13,1,3,152.74,Mobile
+0,2,3.0,36.0,Debit Card,Male,3.0,5,Super,5.0,Divorced,7,0.0,14,2,5,172.24,Mobile
+0,8,3.0,11.0,E wallet,Male,2.0,4,Super,5.0,Single,3,0.0,16,1,8,147.12,Mobile
+0,17,1.0,42.0,Credit Card,Female,4.0,2,Regular Plus,3.0,Single,7,0.0,14,1,3,175.39,Computer
+0,13,3.0,8.0,E wallet,Female,3.0,3,Super,4.0,Married,4,0.0,14,1,10,156.77,Mobile
+0,5,3.0,12.0,E wallet,Female,3.0,4,Regular Plus,4.0,Married,3,0.0,12,1,3,152.89,Computer
+1,0,1.0,10.0,Credit Card,Male,2.0,4,Regular Plus,4.0,Married,3,0.0,17,1,0,132.96,Computer
+0,1,3.0,15.0,UPI,Male,4.0,4,Super,5.0,Divorced,5,1.0,19,2,4,172.94,Mobile
+0,0,1.0,13.0,Credit Card,Male,2.0,2,Regular Plus,5.0,Divorced,6,0.0,18,0,2,128.19,Mobile
+1,1,1.0,19.0,Credit Card,Female,4.0,4,Regular Plus,5.0,Married,5,1.0,20,1,1,153.98,Mobile
+1,3,1.0,30.0,Credit Card,Male,4.0,4,Regular Plus,5.0,Single,2,0.0,14,1,4,164.04,Mobile
+0,0,1.0,13.0,Credit Card,Male,2.0,4,Regular Plus,2.0,Single,1,0.0,13,0,1,122.45,Mobile
+0,23,1.0,32.0,Debit Card,Female,3.0,4,Regular Plus,5.0,Married,3,0.0,15,2,5,157.11,Mobile
+0,3,3.0,10.0,Credit Card,Female,4.0,4,Super,3.0,Divorced,3,0.0,15,1,3,180.61,Mobile
+1,0,1.0,6.0,Credit Card,Male,3.0,3,Regular Plus,2.0,Divorced,3,1.0,16,2,0,122.93,Mobile
+1,1,1.0,24.0,Credit Card,Male,4.0,4,Regular Plus,3.0,Married,3,0.0,15,2,3,151.1,Computer
+0,1,1.0,13.0,Debit Card,Female,4.0,4,Regular Plus,1.0,Married,3,1.0,14,1,3,81.0,Mobile
+0,12,1.0,30.0,Debit Card,Male,2.0,3,Super,1.0,Single,8,0.0,13,0,7,141.08,Mobile
+0,30,1.0,14.0,Debit Card,Male,3.0,4,Regular Plus,1.0,Married,6,0.0,19,0,0,121.77,Mobile
+0,6,1.0,34.0,Debit Card,Male,3.0,3,Super,3.0,Married,2,1.0,12,4,7,152.07,Mobile
+1,2,1.0,11.0,Credit Card,Male,3.0,4,Super,4.0,Married,9,0.0,13,2,5,173.55,Mobile
+0,19,1.0,24.0,Debit Card,Male,4.0,4,Regular Plus,2.0,Divorced,8,0.0,24,2,3,157.54,Mobile
+1,0,3.0,18.0,Debit Card,Male,3.0,4,Regular Plus,5.0,Married,2,0.0,18,1,0,120.33,Computer
+0,14,1.0,7.0,Debit Card,Male,4.0,5,Super Plus,4.0,Married,3,0.0,23,6,12,260.03,Computer
+1,0,1.0,27.0,Credit Card,Male,2.0,3,Regular Plus,4.0,Married,7,1.0,13,1,2,126.73,Mobile
+0,9,3.0,8.0,Debit Card,Male,2.0,3,Super,2.0,Divorced,3,1.0,14,2,11,162.01,Mobile
+0,11,1.0,18.0,UPI,Male,3.0,4,HNI,1.0,Married,3,1.0,15,2,8,246.85,Computer
+0,6,3.0,31.0,Debit Card,Male,4.0,6,HNI,3.0,Married,8,0.0,15,1,3,222.1,Mobile
+0,0,1.0,28.0,Cash on Delivery,Male,2.0,3,Regular Plus,4.0,Divorced,3,1.0,18,1,1,134.58,Mobile
+0,16,1.0,15.0,Credit Card,Female,3.0,5,Regular Plus,5.0,Married,5,1.0,13,8,9,152.93,Mobile
+1,5,3.0,18.0,Debit Card,Male,2.0,3,Super Plus,5.0,Single,1,1.0,12,2,14,237.58,Computer
+0,5,1.0,11.0,Debit Card,Male,2.0,4,Super,1.0,Single,9,0.0,24,0,0,196.79,Mobile
+1,0,2.0,23.0,Debit Card,Female,2.0,3,Regular Plus,3.0,Married,1,1.0,11,0,0,127.41,Computer
+0,30,1.0,33.0,Debit Card,Male,2.0,2,HNI,2.0,Married,8,1.0,18,1,4,198.39,Mobile
+1,1,1.0,7.0,Credit Card,Male,3.0,4,Regular Plus,1.0,Married,11,1.0,15,3,3,172.87,Mobile
+1,4,1.0,18.0,Cash on Delivery,Female,2.0,3,Regular,3.0,Married,2,0.0,12,1,8,295.45,Mobile
+0,20,3.0,33.0,Debit Card,Male,4.0,5,Super,4.0,Single,10,0.0,16,3,3,204.91,Computer
+0,0,1.0,15.0,Credit Card,Male,3.0,1,Regular Plus,5.0,Single,12,0.0,13,1,1,136.24,Mobile
+0,0,3.0,18.0,Debit Card,Male,2.0,3,Regular Plus,5.0,Single,5,0.0,12,0,2,127.28,Mobile
+0,24,1.0,9.0,Cash on Delivery,Female,2.0,3,HNI,3.0,Married,3,0.0,11,2,2,231.16000000000005,Mobile
+0,3,1.0,39.0,Debit Card,Male,4.0,6,Super,3.0,Married,10,0.0,19,1,7,191.84,Mobile
+1,10,1.0,35.0,Debit Card,Male,2.0,3,HNI,4.0,Divorced,2,1.0,12,5,9,218.49,Computer
+0,16,3.0,33.0,E wallet,Female,4.0,4,Super Plus,4.0,Divorced,7,0.0,15,3,9,260.25,Computer
+0,1,1.0,17.0,Cash on Delivery,Male,3.0,2,Regular Plus,3.0,Married,4,0.0,17,1,3,145.73,Mobile
+0,4,1.0,8.0,Credit Card,Male,4.0,4,Regular Plus,4.0,Married,3,0.0,14,2,8,162.48,Mobile
+0,14,3.0,11.0,Credit Card,Male,3.0,6,Super,1.0,Married,5,1.0,23,2,3,202.57,Mobile
+0,14,1.0,25.0,Debit Card,Male,2.0,3,Super,5.0,Married,3,0.0,16,1,0,130.72,Mobile
+1,0,2.0,28.0,UPI,Female,2.0,4,Regular Plus,4.0,Married,2,0.0,12,1,0,128.63,Computer
+0,14,1.0,13.0,Cash on Delivery,Female,2.0,1,Regular Plus,3.0,Divorced,2,0.0,13,1,8,133.76,Mobile
+0,0,1.0,16.0,Debit Card,Male,3.0,3,Regular Plus,2.0,Single,3,0.0,15,1,0,111.51,Computer
+0,19,1.0,16.0,Debit Card,Male,4.0,3,Super,3.0,Divorced,10,0.0,19,1,3,196.34,Computer
+0,7,1.0,16.0,Debit Card,Female,3.0,3,Super,4.0,Married,5,0.0,12,7,9,161.33,Mobile
+0,18,1.0,12.0,Debit Card,Male,3.0,5,Regular Plus,3.0,Single,5,0.0,15,1,4,156.62,Computer
+0,2,1.0,11.0,Debit Card,Male,2.0,3,Super,1.0,Married,3,0.0,19,0,3,192.53,Computer
+1,2,1.0,34.0,Credit Card,Male,3.0,3,Regular Plus,5.0,Single,3,0.0,13,0,3,145.04,Mobile
+0,16,1.0,18.0,Credit Card,Female,4.0,4,Regular Plus,1.0,Single,7,0.0,14,5,9,167.73,Computer
+0,30,1.0,9.0,Credit Card,Female,2.0,1,Regular Plus,5.0,Married,5,1.0,20,0,0,126.7,Mobile
+0,21,1.0,11.0,Credit Card,Female,4.0,4,Super,1.0,Married,11,0.0,15,1,5,176.7,Mobile
+0,7,1.0,36.0,Credit Card,Female,3.0,3,Regular Plus,4.0,Single,6,0.0,16,1,2,126.11,Mobile
+0,22,3.0,28.0,Debit Card,Female,4.0,4,Super,3.0,Married,126,0.0,15,2,8,194.39,Mobile
+0,30,1.0,10.0,Debit Card,Male,3.0,4,Super,3.0,Married,4,0.0,22,1,10,188.06,Computer
+0,3,3.0,16.0,Debit Card,Male,4.0,4,Super,3.0,Divorced,7,0.0,15,2,3,172.49,Computer
+0,0,1.0,23.0,Credit Card,Female,2.0,4,Super,3.0,Married,2,0.0,15,0,2,143.77,Mobile
+0,2,1.0,14.0,Debit Card,Female,2.0,4,Super Plus,1.0,Married,7,0.0,16,1,7,261.24,Mobile
+0,13,1.0,12.0,Debit Card,Female,3.0,3,Super Plus,3.0,Single,8,0.0,15,4,13,232.37,Mobile
+0,0,3.0,34.0,Credit Card,Female,2.0,3,Super,1.0,Single,2,0.0,23,0,4,164.8,Mobile
+0,29,1.0,8.0,Credit Card,Male,3.0,2,Super Plus,1.0,Married,4,0.0,14,1,1,272.32,Mobile
+0,3,1.0,6.0,Debit Card,Male,2.0,5,Regular Plus,3.0,Married,4,0.0,21,1,2,138.33,Mobile
+0,3,1.0,13.0,Debit Card,Female,2.0,5,Super,1.0,Single,7,0.0,20,1,2,166.91,Mobile
+0,13,1.0,14.0,Cash on Delivery,Female,4.0,4,HNI,3.0,Single,4,0.0,27,7,9,237.38,Computer
+0,9,1.0,7.0,Credit Card,Male,3.0,5,Regular Plus,3.0,Married,8,0.0,13,2,8,147.58,Mobile
+0,2,1.0,25.0,Cash on Delivery,Male,2.0,3,Super,2.0,Married,5,0.0,12,0,2,142.62,Mobile
+0,1,3.0,18.0,E wallet,Male,3.0,4,Super,1.0,Married,6,0.0,21,2,2,168.42,Computer
+0,0,1.0,13.0,Debit Card,Female,3.0,3,HNI,5.0,Divorced,2,0.0,13,1,7,181.12,Mobile
+0,10,1.0,12.0,Credit Card,Male,2.0,4,Regular Plus,4.0,Single,10,0.0,14,3,3,151.88,Computer
+0,16,3.0,25.0,E wallet,Female,3.0,3,Super Plus,2.0,Divorced,7,1.0,22,0,9,267.64,Mobile
+0,0,1.0,37.0,UPI,Female,2.0,4,Regular Plus,3.0,Married,3,1.0,16,0,3,128.14,Computer
+0,7,1.0,20.0,Debit Card,Female,3.0,4,Regular Plus,2.0,Single,5,0.0,19,2,3,159.52,Mobile
+0,14,3.0,23.0,Cash on Delivery,Female,3.0,5,Super,4.0,Married,9,0.0,15,2,4,197.52,Mobile
+0,9,1.0,10.0,Credit Card,Female,2.0,4,Super,3.0,Married,2,0.0,15,1,2,150.74,Computer
+0,5,3.0,13.0,Debit Card,Female,2.0,3,Regular Plus,4.0,Divorced,4,0.0,12,1,2,142.31,Mobile
+0,25,1.0,25.0,Cash on Delivery,Female,3.0,5,Super Plus,4.0,Single,5,0.0,18,1,4,259.42,Mobile
+0,1,3.0,6.0,Debit Card,Male,2.0,4,Super,1.0,Married,2,1.0,12,0,7,168.34,Computer
+0,6,3.0,17.0,E wallet,Male,3.0,4,Super,1.0,Single,3,0.0,13,2,9,178.96,Mobile
+0,14,1.0,33.0,Credit Card,Female,4.0,5,Super,2.0,Divorced,5,1.0,14,2,1,169.22,Computer
+0,1,1.0,17.0,Credit Card,Female,4.0,4,Regular Plus,1.0,Single,7,0.0,13,1,5,160.45,Mobile
+0,0,3.0,15.0,E wallet,Male,2.0,3,Super,1.0,Single,2,0.0,14,0,7,141.05,Mobile
+0,18,1.0,19.0,Credit Card,Female,2.0,3,Regular Plus,3.0,Married,5,1.0,19,0,2,151.77,Mobile
+0,99,1.0,22.0,UPI,Male,2.0,3,Super,1.0,Married,3,1.0,15,0,3,170.65,Mobile
+0,3,3.0,24.0,E wallet,Male,3.0,4,Regular Plus,4.0,Married,5,0.0,15,3,3,151.97,Mobile
+0,0,1.0,35.0,Credit Card,Male,3.0,3,Regular Plus,5.0,Married,2,0.0,13,1,2,139.07,Mobile
+0,24,1.0,39.0,Debit Card,Male,3.0,5,Super Plus,3.0,Divorced,5,0.0,18,12,8,295.46,Mobile
+0,2,1.0,33.0,Credit Card,Male,2.0,3,Regular Plus,1.0,Married,3,0.0,15,1,10,139.12,Computer
+0,18,1.0,9.0,Credit Card,Male,3.0,4,HNI,3.0,Single,7,1.0,19,3,3,227.09,Computer
+0,18,1.0,14.0,UPI,Male,3.0,4,Regular,2.0,Divorced,6,1.0,14,2,2,324.13,Mobile
+1,1,1.0,12.0,Credit Card,Female,3.0,5,Regular Plus,3.0,Married,3,1.0,15,1,8,148.66,Computer
+0,7,1.0,18.0,Credit Card,Female,3.0,5,Regular Plus,4.0,Divorced,12,0.0,13,1,3,163.38,Mobile
+0,20,1.0,15.0,Debit Card,Female,4.0,5,Super,5.0,Married,10,1.0,24,2,8,171.15,Mobile
+0,18,1.0,34.0,Debit Card,Male,2.0,3,Super,5.0,Divorced,2,1.0,16,1,8,138.33,Computer
+0,0,1.0,16.0,Debit Card,Female,3.0,3,Regular Plus,3.0,Single,3,0.0,19,1,0,128.18,Mobile
+0,2,1.0,19.0,Credit Card,Female,2.0,3,Regular Plus,2.0,Divorced,4,0.0,14,0,8,138.31,Mobile
+0,18,3.0,15.0,Debit Card,Female,3.0,4,Super,3.0,Divorced,2,0.0,13,0,12,155.93,Computer
+1,14,1.0,16.0,Debit Card,Male,2.0,3,Regular Plus,3.0,Married,11,1.0,13,0,7,125.61,Mobile
+0,6,1.0,12.0,Debit Card,Male,1.0,3,Super,2.0,Married,4,0.0,23,4,7,177.25,Computer
+0,8,3.0,11.0,Debit Card,Male,4.0,4,HNI,1.0,Married,4,1.0,14,1,1,222.13,Mobile
+0,21,1.0,11.0,Credit Card,Female,4.0,4,HNI,4.0,Married,6,0.0,21,1,13,251.57,Computer
+0,8,1.0,12.0,Debit Card,Male,2.0,4,HNI,4.0,Married,6,0.0,19,2,4,208.74,Mobile
+0,13,1.0,10.0,Credit Card,Female,3.0,3,Regular Plus,3.0,Married,6,0.0,15,0,2,124.01,Mobile
+0,19,1.0,32.0,Credit Card,Female,3.0,4,Regular,4.0,Single,5,0.0,23,1,1,305.61,Computer
+0,1,1.0,12.0,Cash on Delivery,Male,2.0,3,Regular Plus,5.0,Single,6,0.0,11,0,2,122.8,Mobile
+0,10,1.0,31.0,Credit Card,Female,3.0,3,Super,3.0,Married,4,1.0,15,4,7,144.49,Computer
+1,1,3.0,13.0,Debit Card,Male,3.0,5,HNI,1.0,Married,7,1.0,13,4,8,228.25,Mobile
+0,4,1.0,6.0,Credit Card,Male,2.0,5,Super,3.0,Married,1,0.0,12,0,4,143.45,Computer
+0,15,1.0,19.0,Credit Card,Male,4.0,4,Regular,3.0,Married,6,0.0,19,1,12,319.19,Computer
+0,7,2.0,10.0,UPI,Male,3.0,4,Regular Plus,4.0,Married,5,1.0,12,1,4,147.77,Mobile
+0,21,1.0,21.0,Debit Card,Male,3.0,4,Regular,4.0,Married,8,0.0,13,3,9,302.65,Mobile
+0,7,1.0,7.0,Credit Card,Male,3.0,4,Super,5.0,Single,1,0.0,20,0,9,153.43,Computer
+0,4,3.0,13.0,E wallet,Male,3.0,3,Super,2.0,Married,5,0.0,12,0,7,175.47,Mobile
+0,26,1.0,10.0,Credit Card,Male,3.0,5,HNI,3.0,Married,4,1.0,15,2,5,204.69,Mobile
+1,1,1.0,11.0,Cash on Delivery,Male,3.0,4,Regular Plus,5.0,Single,3,0.0,20,2,1,154.73,Mobile
+0,3,3.0,17.0,Debit Card,Male,3.0,4,Regular Plus,3.0,Single,3,0.0,12,1,1,151.42,Mobile
+0,29,3.0,33.0,E wallet,Male,3.0,5,Regular,1.0,Married,3,0.0,22,3,14,320.86,Mobile
+0,13,1.0,7.0,Debit Card,Male,3.0,4,Regular,3.0,Married,3,1.0,15,1,7,316.97,Computer
+0,11,1.0,17.0,Debit Card,Male,3.0,3,Regular Plus,1.0,Married,5,0.0,21,1,3,152.71,Mobile
+0,9,1.0,36.0,Credit Card,Male,2.0,1,Super,1.0,Married,6,0.0,17,0,3,128.71,Computer
+0,13,1.0,21.0,Debit Card,Female,2.0,1,Regular Plus,3.0,Married,4,1.0,15,0,7,126.13,Mobile
+0,6,3.0,12.0,E wallet,Male,3.0,4,Super,4.0,Divorced,6,1.0,14,1,3,167.78,Mobile
+0,27,1.0,13.0,Credit Card,Male,3.0,2,Super Plus,4.0,Single,6,0.0,13,3,9,291.98,Mobile
+0,9,3.0,17.0,E wallet,Female,3.0,4,Super,1.0,Married,5,0.0,13,1,0,166.52,Mobile
+0,10,3.0,25.0,E wallet,Male,3.0,6,Super,1.0,Married,6,0.0,27,5,12,183.06,Computer
+0,14,1.0,11.0,Credit Card,Female,3.0,4,Regular,3.0,Divorced,3,0.0,15,1,10,315.33,Mobile
+0,19,1.0,19.0,Debit Card,Male,2.0,3,Super,4.0,Single,7,0.0,14,1,9,155.62,Mobile
+0,18,1.0,18.0,Debit Card,Male,2.0,3,HNI,5.0,Married,5,0.0,19,0,0,200.24,Mobile
+0,21,3.0,8.0,E wallet,Female,2.0,3,Super,1.0,Married,3,0.0,14,6,7,140.51,Mobile
+0,17,1.0,28.0,Debit Card,Male,2.0,3,Regular Plus,4.0,Single,4,0.0,13,1,3,138.2,Mobile
+0,24,1.0,35.0,Debit Card,Female,3.0,4,Super Plus,5.0,Married,6,1.0,12,1,3,293.8,Mobile
+0,0,1.0,8.0,Credit Card,Male,2.0,3,Regular Plus,4.0,Married,10,0.0,12,1,2,134.68,Mobile
+0,27,1.0,13.0,Credit Card,Female,3.0,3,Super,1.0,Married,5,0.0,15,1,7,168.54,Mobile
+0,20,3.0,14.0,Cash on Delivery,Female,4.0,6,Super Plus,4.0,Married,6,1.0,13,7,8,300.72,Mobile
+0,30,3.0,12.0,Debit Card,Female,2.0,4,Super,2.0,Single,7,0.0,17,0,5,158.71,Mobile
+1,1,3.0,33.0,E wallet,Male,3.0,5,Regular Plus,4.0,Divorced,4,1.0,20,1,1,152.13,Mobile
+0,8,3.0,29.0,Credit Card,Male,3.0,3,Super,5.0,Married,2,0.0,16,1,4,156.61,Mobile
+0,0,3.0,15.0,Debit Card,Male,2.0,3,Regular Plus,5.0,Single,2,0.0,11,0,2,127.28,Mobile
+0,18,1.0,14.0,UPI,Male,3.0,3,Super,2.0,Divorced,10,0.0,14,7,8,136.97,Mobile
+0,12,1.0,9.0,Debit Card,Male,3.0,4,Regular Plus,2.0,Divorced,3,1.0,24,2,1,142.02,Computer
+0,10,3.0,22.0,E wallet,Male,3.0,4,Super,3.0,Married,5,0.0,19,1,0,163.34,Mobile
+0,16,3.0,7.0,Debit Card,Male,3.0,4,Super,3.0,Divorced,3,0.0,26,5,7,174.07,Mobile
+0,9,1.0,11.0,Credit Card,Male,3.0,4,Super,1.0,Married,4,0.0,16,2,8,183.62,Computer
+0,8,3.0,8.0,E wallet,Male,3.0,4,HNI,1.0,Single,3,0.0,22,3,2,223.88,Mobile
+1,1,1.0,15.0,UPI,Male,4.0,5,Regular Plus,3.0,Single,12,1.0,18,1,1,150.9,Mobile
+0,18,1.0,16.0,Credit Card,Female,2.0,5,Super,5.0,Single,2,1.0,15,0,4,163.69,Mobile
+0,0,3.0,11.0,Debit Card,Male,2.0,5,Super,1.0,Single,8,0.0,22,0,0,157.71,Computer
+0,9,3.0,19.0,Debit Card,Female,3.0,4,Super,1.0,Married,4,1.0,13,2,10,182.04,Mobile
+1,0,3.0,37.0,E wallet,Female,2.0,4,Super,5.0,Single,6,0.0,17,1,1,169.96,Computer
+0,9,1.0,13.0,UPI,Male,3.0,3,Regular Plus,1.0,Single,3,0.0,18,1,1,146.78,Mobile
+1,0,1.0,13.0,Debit Card,Male,3.0,5,Super,3.0,Single,2,1.0,24,1,6,160.74,Computer
+0,2,2.0,11.0,Debit Card,Male,3.0,4,Regular Plus,1.0,Married,6,0.0,17,1,3,152.06,Computer
+0,0,3.0,11.0,UPI,Female,1.0,4,Regular Plus,3.0,Single,1,0.0,18,1,0,129.66,Mobile
+0,14,3.0,36.0,E wallet,Male,4.0,4,Super,5.0,Divorced,5,0.0,15,6,6,215.96,Mobile
+0,27,1.0,11.0,Debit Card,Female,2.0,3,Super,3.0,Single,12,0.0,11,0,0,143.8,Mobile
+1,0,3.0,36.0,Credit Card,Female,2.0,4,Super,4.0,Single,3,1.0,23,4,10,149.99,Mobile
+0,16,1.0,17.0,Credit Card,Male,2.0,1,Regular Plus,1.0,Married,5,0.0,15,1,2,124.89,Computer
+1,18,3.0,15.0,Credit Card,Male,2.0,3,Super,1.0,Single,8,0.0,18,1,3,157.6,Mobile
+0,7,1.0,21.0,Credit Card,Male,3.0,3,Super Plus,5.0,Married,8,0.0,14,2,9,270.07,Computer
+1,16,3.0,35.0,Debit Card,Male,3.0,3,HNI,5.0,Single,11,1.0,13,2,2,210.48,Mobile
+0,7,3.0,21.0,Debit Card,Female,3.0,3,Super,5.0,Married,6,0.0,19,1,2,169.0,Mobile
+0,0,1.0,7.0,Debit Card,Female,2.0,4,Regular Plus,3.0,Married,2,1.0,13,0,0,129.33,Mobile
+1,0,3.0,36.0,E wallet,Female,2.0,3,HNI,1.0,Married,6,0.0,22,0,9,183.39,Mobile
+0,7,3.0,6.0,E wallet,Male,2.0,3,HNI,1.0,Single,2,0.0,21,1,1,198.88,Mobile
+0,15,1.0,9.0,UPI,Female,4.0,5,Super,3.0,Single,4,1.0,18,1,8,193.11,Computer
+0,20,2.0,32.0,Debit Card,Female,3.0,3,Regular,3.0,Married,4,0.0,11,1,0,296.58,Mobile
+0,9,1.0,25.0,Debit Card,Male,3.0,4,HNI,2.0,Single,4,0.0,12,1,3,218.62,Computer
+0,23,1.0,15.0,Debit Card,Male,3.0,3,Regular Plus,2.0,Divorced,5,0.0,18,1,0,123.8,Mobile
+0,23,1.0,15.0,Credit Card,Male,3.0,5,Regular,3.0,Divorced,7,0.0,16,1,1,313.11,Mobile
+1,6,3.0,15.0,E wallet,Female,2.0,5,Super,3.0,Single,9,0.0,13,1,3,153.46,Mobile
+0,29,1.0,18.0,Debit Card,Female,3.0,3,Regular Plus,5.0,Married,9,1.0,20,2,2,146.57,Mobile
+0,0,1.0,21.0,Debit Card,Female,3.0,4,Regular Plus,5.0,Married,1,0.0,19,0,3,147.74,Computer
+0,22,1.0,20.0,Debit Card,Male,4.0,5,Super,3.0,Single,8,0.0,16,1,3,169.4,Mobile
+0,1,1.0,15.0,Debit Card,Female,3.0,5,Regular Plus,3.0,Married,5,1.0,16,1,1,160.33,Mobile
+0,6,1.0,13.0,Debit Card,Female,4.0,5,Regular Plus,4.0,Married,8,0.0,21,1,3,151.32,Computer
+0,8,1.0,24.0,Debit Card,Male,2.0,1,Super,5.0,Married,2,0.0,11,1,10,152.08,Mobile
+1,99,3.0,20.0,Credit Card,Male,3.0,4,Super,5.0,Married,4,0.0,18,1,3,167.33,Mobile
+1,1,3.0,34.0,UPI,Male,3.0,5,Regular Plus,4.0,Single,4,1.0,16,2,1,150.21,Mobile
+0,18,1.0,10.0,Debit Card,Male,2.0,3,Super,4.0,Divorced,2,0.0,12,1,8,144.47,Computer
+0,9,1.0,15.0,Debit Card,Male,2.0,3,Regular Plus,2.0,Divorced,4,0.0,11,4,11,134.1,Mobile
+0,16,1.0,30.0,Debit Card,Female,3.0,4,Super Plus,2.0,Single,4,0.0,15,1,1,284.92,Mobile
+0,10,3.0,25.0,Credit Card,Male,2.0,3,HNI,4.0,Single,2,1.0,13,0,9,176.42,Computer
+0,11,1.0,15.0,Debit Card,Male,2.0,3,Regular Plus,1.0,Single,10,1.0,11,0,2,143.44,Mobile
+0,11,1.0,14.0,Credit Card,Male,2.0,4,HNI,3.0,Single,6,0.0,14,1,3,261.64,Mobile
+0,5,3.0,25.0,Debit Card,Male,3.0,3,Super,1.0,Married,7,0.0,12,0,3,149.03,Mobile
+0,0,1.0,14.0,Credit Card,Male,2.0,3,Regular Plus,4.0,Married,12,0.0,13,1,2,141.68,Mobile
+0,4,1.0,35.0,Credit Card,Female,4.0,4,Super,2.0,Divorced,3,0.0,14,1,10,182.75,Mobile
+0,6,1.0,16.0,Credit Card,Female,2.0,4,Regular Plus,4.0,Married,10,0.0,12,1,2,145.38,Mobile
+0,21,1.0,15.0,Debit Card,Male,3.0,4,Regular,3.0,Married,10,0.0,14,2,2,314.0,Mobile
+0,13,1.0,10.0,Credit Card,Male,4.0,5,Super,3.0,Married,2,0.0,16,1,8,155.69,Mobile
+0,6,1.0,17.0,Debit Card,Female,3.0,3,HNI,4.0,Married,11,0.0,11,7,8,222.78,Computer
+0,2,3.0,11.0,E wallet,Male,2.0,3,Super,2.0,Divorced,3,0.0,20,0,1,144.42,Computer
+0,31,1.0,17.0,Debit Card,Male,4.0,5,Regular Plus,2.0,Divorced,5,0.0,20,1,1,148.77,Mobile
+0,29,1.0,11.0,Debit Card,Male,2.0,3,Super,3.0,Married,6,0.0,21,0,9,168.06,Computer
+0,8,1.0,7.0,Debit Card,Male,3.0,5,Regular Plus,2.0,Divorced,3,1.0,14,1,4,161.22,Mobile
+0,8,3.0,6.0,Debit Card,Female,3.0,4,Regular Plus,3.0,Married,1,0.0,23,2,2,124.3,Mobile
+0,7,3.0,13.0,Debit Card,Female,3.0,2,Super,5.0,Married,5,0.0,22,1,4,179.76,Computer
+0,3,1.0,32.0,Debit Card,Male,3.0,2,Regular Plus,3.0,Divorced,6,0.0,26,2,8,155.0,Mobile
+0,18,2.0,14.0,UPI,Male,3.0,4,Super,1.0,Married,9,1.0,13,2,3,184.43,Computer
+0,11,2.0,20.0,UPI,Male,3.0,3,Super,3.0,Married,7,0.0,12,0,2,165.77,Computer
+1,1,3.0,22.0,Credit Card,Male,3.0,5,HNI,5.0,Married,15,0.0,19,5,1,234.06,Mobile
+1,0,3.0,16.0,E wallet,Female,2.0,3,Regular Plus,3.0,Single,6,1.0,13,1,0,130.51,Mobile
+0,4,3.0,36.0,E wallet,Male,4.0,4,Super,1.0,Married,12,0.0,24,3,8,184.04,Mobile
+1,0,2.0,30.0,UPI,Male,2.0,1,Regular Plus,5.0,Married,3,0.0,17,1,0,132.56,Mobile
+0,24,1.0,13.0,Credit Card,Male,2.0,5,Super,4.0,Married,6,0.0,20,0,2,160.82,Mobile
+0,5,1.0,7.0,Debit Card,Female,4.0,4,Super,5.0,Divorced,3,0.0,13,2,4,166.48,Computer
+0,11,1.0,23.0,Debit Card,Female,3.0,4,Regular Plus,5.0,Married,3,1.0,14,4,4,153.82,Mobile
+0,15,1.0,25.0,Debit Card,Male,3.0,4,Regular Plus,3.0,Married,9,0.0,15,2,9,154.51,Mobile
+1,8,1.0,22.0,Credit Card,Female,4.0,4,HNI,1.0,Married,3,0.0,12,1,6,204.78,Mobile
+0,7,1.0,10.0,Credit Card,Female,4.0,3,Super Plus,3.0,Married,9,0.0,22,1,6,287.84,Mobile
+0,6,3.0,22.0,Debit Card,Female,2.0,3,Super,1.0,Married,2,1.0,25,0,2,153.68,Computer
+0,17,3.0,11.0,E wallet,Female,3.0,5,HNI,1.0,Single,5,0.0,15,11,18,227.31,Mobile
+0,12,1.0,11.0,Debit Card,Female,3.0,3,Super,2.0,Single,2,0.0,15,2,9,206.25,Mobile
+0,14,1.0,17.0,Debit Card,Female,2.0,5,Regular,3.0,Married,3,0.0,22,1,10,299.73,Computer
+1,1,1.0,13.0,Credit Card,Male,3.0,5,Regular Plus,4.0,Married,4,0.0,16,2,1,155.96,Computer
+0,3,3.0,38.0,Debit Card,Male,3.0,3,Super,5.0,Married,12,0.0,19,1,3,141.15,Mobile
+0,4,3.0,17.0,UPI,Male,4.0,4,HNI,3.0,Married,8,0.0,13,3,8,204.64,Mobile
+0,13,1.0,13.0,Credit Card,Male,3.0,5,HNI,5.0,Married,6,0.0,16,2,8,224.91,Mobile
+0,12,1.0,15.0,Credit Card,Male,2.0,3,Super,5.0,Married,2,0.0,25,0,9,151.51,Mobile
+0,10,1.0,20.0,Debit Card,Female,3.0,3,Regular Plus,5.0,Married,2,0.0,12,3,17,130.34,Mobile
+0,2,1.0,7.0,Debit Card,Male,3.0,4,Regular Plus,1.0,Married,3,0.0,12,1,4,145.44,Mobile
+0,5,1.0,16.0,Debit Card,Male,2.0,3,Regular Plus,3.0,Married,7,0.0,13,0,3,134.33,Computer
+0,0,3.0,16.0,E wallet,Female,3.0,4,Super,1.0,Married,2,1.0,11,1,4,157.69,Mobile
+0,14,3.0,14.0,Credit Card,Male,3.0,4,Regular,4.0,Single,3,0.0,15,2,9,323.33,Mobile
+0,1,1.0,13.0,Debit Card,Female,4.0,4,Regular Plus,2.0,Single,7,0.0,17,2,1,141.11,Computer
+0,2,1.0,16.0,Credit Card,Male,2.0,3,Regular Plus,5.0,Single,3,1.0,18,0,5,152.23,Mobile
+0,0,1.0,12.0,Debit Card,Female,3.0,5,Regular Plus,2.0,Married,4,0.0,14,2,0,143.64,Computer
+0,7,3.0,9.0,Debit Card,Female,2.0,5,Super,1.0,Single,6,0.0,12,1,2,160.29,Mobile
+0,99,1.0,11.0,Credit Card,Male,3.0,5,Regular Plus,3.0,Married,5,0.0,15,1,1,151.08,Computer
+0,8,1.0,23.0,Debit Card,Female,4.0,5,Regular Plus,1.0,Single,3,0.0,17,2,4,150.53,Computer
+0,16,3.0,19.0,E wallet,Male,4.0,4,Super,1.0,Married,5,1.0,13,1,1,175.87,Mobile
+1,0,3.0,20.0,Cash on Delivery,Male,2.0,4,Super,5.0,Single,7,0.0,18,1,2,156.26,Mobile
+0,0,1.0,11.0,Debit Card,Female,2.0,4,Regular Plus,3.0,Married,4,1.0,14,0,0,136.33,Mobile
+0,7,1.0,6.0,UPI,Male,3.0,3,Regular Plus,5.0,Married,6,0.0,14,1,3,129.96,Computer
+0,18,3.0,35.0,E wallet,Male,2.0,4,Super,5.0,Married,3,0.0,15,0,5,147.85,Computer
+0,29,1.0,6.0,Debit Card,Male,2.0,3,Super,3.0,Married,2,0.0,21,0,9,163.06,Computer
+0,13,1.0,13.0,Debit Card,Female,3.0,4,HNI,4.0,Single,6,0.0,19,3,3,208.76,Mobile
+0,12,1.0,19.0,Credit Card,Male,2.0,4,HNI,5.0,Married,6,0.0,16,1,7,205.91,Mobile
+0,0,1.0,20.0,Cash on Delivery,Male,2.0,1,Regular Plus,3.0,Married,6,0.0,16,2,2,127.73,Mobile
+0,1,3.0,25.0,Credit Card,Male,3.0,4,Regular Plus,3.0,Divorced,7,0.0,14,2,7,151.96,Mobile
+0,3,1.0,32.0,Debit Card,Male,3.0,3,Regular Plus,3.0,Married,4,0.0,23,1,0,132.93,Mobile
+1,0,1.0,12.0,Debit Card,Female,3.0,5,Regular Plus,4.0,Single,10,1.0,14,1,7,129.16,Mobile
+0,10,3.0,16.0,Debit Card,Female,2.0,4,Super,1.0,Married,3,1.0,14,1,0,166.94,Mobile
+0,19,3.0,23.0,Debit Card,Female,3.0,4,Super Plus,1.0,Married,6,0.0,14,1,2,301.5,Mobile
+0,20,3.0,22.0,E wallet,Male,2.0,3,Super,5.0,Single,6,0.0,14,0,7,153.6,Mobile
+1,1,3.0,25.0,E wallet,Male,4.0,4,HNI,3.0,Married,7,0.0,14,2,1,209.61,Mobile
+0,1,1.0,8.0,Debit Card,Female,4.0,4,Regular Plus,1.0,Single,3,0.0,16,2,1,141.11,Computer
+0,2,1.0,8.0,Credit Card,Male,3.0,4,Regular Plus,3.0,Single,2,1.0,12,2,3,146.54,Computer
